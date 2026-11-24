@@ -1,0 +1,6 @@
+@ADO_NET_Project_HostAddress = http://localhost:5185
+
+GET {{ADO_NET_Project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
